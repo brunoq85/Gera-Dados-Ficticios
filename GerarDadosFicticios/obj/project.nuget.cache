@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybaf8Hg5aJInb5aFxL548oAQitcgSZLG0p1KPS35P3+aqHfqj3JVklfQEMjPdpVbQ/hEMbRGudowb5sBs6cRbw==",
+  "success": true,
+  "projectFilePath": "C:\\MS\\joga para o GitHub\\EntityFramework\\GerarDadosFicticios\\GerarDadosFicticios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quintella\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
